@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Sagar Desai - Backend and Full-Stack Developer" />
+
 
 <br/>
 
