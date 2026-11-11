@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Sagar%20Desai&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Sagar Desai header" />
+<img src="assets/header.svg" width="100%" alt="Sagar Desai - Backend and Full-Stack Developer" />
 
 <a href="https://github.com/SAGARDEVARAJDESAI">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+%26+Full-Stack+Developer;Building+AI+apps+with+RAG+%26+local+LLMs;ECE+Student+%40+Bangalore+Institute+of+Technology;Open+to+SDE+internships+%26+entry-level+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+and+Full-Stack+Developer;Building+AI+apps+with+RAG+and+local+LLMs;ECE+Student+%40+Bangalore+Institute+of+Technology;Open+to+SDE+internships+and+entry-level+roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -168,6 +168,6 @@
 
 **Let's build something together** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
