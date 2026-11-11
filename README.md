@@ -2,10 +2,6 @@
 
 <img src="assets/header.svg" width="100%" alt="Sagar Desai - Backend and Full-Stack Developer" />
 
-<a href="https://github.com/SAGARDEVARAJDESAI">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+and+Full-Stack+Developer;Building+AI+apps+with+RAG+and+local+LLMs;ECE+Student+%40+Bangalore+Institute+of+Technology;Open+to+SDE+internships+and+entry-level+roles" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/sagar-desai-928417377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
