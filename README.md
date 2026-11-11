@@ -164,6 +164,6 @@
 
 **Let's build something together** 🚀
 
-<img src="assets/footer.svg" width="100%" alt="footer" />
+
 
 </div>
