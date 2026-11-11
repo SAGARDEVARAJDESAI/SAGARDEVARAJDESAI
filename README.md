@@ -1,91 +1,173 @@
-# Hi there, I'm Sagar Desai 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-desai-928417377)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sagar_d_desai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagard8792@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Sagar%20Desai&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Sagar Desai header" />
 
-🚀 **Electronics & Communication Engineering Student** passionate about **Full-Stack Web Development, AI/ML Applications**, and **Cloud Computing**[cite: 1]. Currently building AI-powered web applications and honing problem-solving skills[cite: 1].
+<a href="https://github.com/SAGARDEVARAJDESAI">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Backend+%26+Full-Stack+Developer;Building+AI+apps+with+RAG+%26+local+LLMs;ECE+Student+%40+Bangalore+Institute+of+Technology;Open+to+SDE+internships+%26+entry-level+roles" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Skills
+<a href="https://www.linkedin.com/in/sagar-desai-928417377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/sagar_d_desai"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:sagard8792@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Bengaluru-India-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Web Development & Frameworks**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### **AI / Machine Learning**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- **RAG Architecture** | **FAISS** | **Sentence Transformers** | **Ollama**[cite: 1]
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 👋 About Me
 
-### 🤖 [AI Interview Assistant](https://github.com/SAGARDEVARAJDESAI/AI-Interview-Assistant)
-> *Python, FastAPI, React, FAISS, Sentence Transformers, Ollama, Tailwind CSS, Recharts*[cite: 1]
-- Developed a resume-driven mock interview application that parses PDFs, chunks text, creates embeddings, and uses FAISS context retrieval to generate tailored interview questions via TinyLlama[cite: 1].
-- Implemented RESTful APIs for resume uploads, answer evaluation, scoring, and session analytics visualized through a React dashboard[cite: 1].
+- 🎓 B.Tech in **Electronics & Communication Engineering** at **Bangalore Institute of Technology** · Class of 2027 · GPA **8.2 / 10**
+- 💻 Focused on **backend & full-stack development** with Python, Java, JavaScript and TypeScript
+- 🤖 Building **RAG-powered apps** with FAISS, Sentence Transformers, LangChain and local LLMs through Ollama
+- ☁️ **AWS Cloud Intern** at iStudio Technologies — EC2, S3, IAM and Lambda
+- 🧩 Solved **200+ LeetCode problems** in Java
+- 📫 Open to **SDE internships and entry-level roles** — reach me at [sagard8792@gmail.com](mailto:sagard8792@gmail.com)
 
-### 🎯 [Career Prediction Web Application](https://github.com/SAGARDEVARAJDESAI/career-prediction-app)
-> *Python, Flask, scikit-learn*[cite: 1]
-- Built a career recommendation system utilizing Decision Tree and Random Forest classifiers to predict career pathways based on user skills and academic inputs[cite: 1].
+---
 
-### 📄 [AI PDF Chatbot](https://github.com/SAGARDEVARAJDESAI/ai-pdf-chatbot)
-> *Python, LangChain, FAISS*[cite: 1]
-- Created a document QA system utilizing PDF text chunking, semantic embeddings, and FAISS vector similarity search for accurate context retrieval[cite: 1].
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,py,js,ts" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,vercel,git,github" alt="Cloud and tools" /></td>
+  </tr>
+</table>
+
+### 🧠 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Sentence Transformers" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+
+### 📚 Fundamentals
+
+`Data Structures & Algorithms` · `Operating Systems` · `DBMS` · `Computer Networks` · `REST APIs`
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <h3><a href="https://github.com/SAGARDEVARAJDESAI/AI-Interview-Assistant">🎤 AI Interview Assistant</a></h3>
+      <sub>2025</sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,react,tailwind" alt="Python FastAPI React Tailwind" /><br/>
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Resume-based interview app that parses PDFs, chunks text, creates <b>Sentence Transformer</b> embeddings and retrieves context with <b>FAISS</b> to generate questions using <b>TinyLlama</b> via Ollama.</li>
+        <li><b>5 REST endpoints</b> — resume upload, question generation, answer evaluation, analytics and health checks — connected to a React + Tailwind CSS interface.</li>
+        <li>Contextual answer scoring and feedback, with a <b>Recharts</b> dashboard showing scores, question counts and trends across sessions.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <h3><a href="https://github.com/SAGARDEVARAJDESAI/career-prediction-app">🧭 Career Prediction Web App</a></h3>
+      <sub>2024</sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,flask" alt="Python Flask" /><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Career recommendation app driven by skills and academic inputs, using <b>Decision Tree</b> and <b>Random Forest</b> classifiers.</li>
+        <li>Predictions served through a <b>Flask</b> web interface.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <h3><a href="https://github.com/SAGARDEVARAJDESAI/ai-pdf-chatbot">📄 AI PDF Chatbot</a></h3>
+      <sub>2024</sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
+    </td>
+    <td valign="top">
+      <ul>
+        <li>PDF parsing, text chunking, semantic embeddings and <b>FAISS similarity search</b> to retrieve relevant passages for conversational question answering.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-### **AWS Cloud Intern** | *iStudio Technologies, Bengaluru*[cite: 1]
-- Gained hands-on experience in cloud infrastructure deployment, serverless architectures, and AWS services including **EC2, S3, IAM, and Lambda**[cite: 1].
+<table>
+  <tr>
+    <td width="12%" align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></td>
+    <td>
+      <b>AWS Cloud Intern</b> — iStudio Technologies, Bengaluru<br/>
+      Structured AWS training and hands-on infrastructure deployment exercises covering <b>EC2, S3, IAM and Lambda</b>, including cloud architecture and serverless deployment concepts.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-- **B.Tech in Electronics and Communication Engineering** | Bangalore Institute of Technology, Bengaluru (Expected 2027) — **GPA: 8.2/10**[cite: 1]
-- **Class XII** | Konnur PU College (2023) — **92%**[cite: 1]
-- **Class X** | PET's Rathi Kavade English Medium HS (2021) — **91%**[cite: 1]
-
----
-
-## 🏆 Achievements & Problem Solving
-
-- 🧩 **200+ LeetCode Problems Solved** in Java focusing on DSA (Arrays, Two Pointers, Trees, Hashing, Sorting)[cite: 1].
-- 📜 **AWS Cloud Internship Certificate** - iStudio Technologies[cite: 1].
-- 📜 **Data Structures and Algorithms with Java** - Course Completion Certificate[cite: 1].
+- 🏫 **B.Tech, Electronics & Communication Engineering** — Bangalore Institute of Technology, Bengaluru · Expected 2027 · GPA 8.2 / 10
+- 📜 AWS Cloud Internship Certificate — iStudio Technologies
+- 📜 Data Structures and Algorithms with Java — Course Completion Certificate
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-- **Email**: [sagard8792@gmail.com](mailto:sagard8792@gmail.com)[cite: 1]
-- **LinkedIn**: [sagar-desai-928417377](https://linkedin.com/in/sagar-desai-928417377)[cite: 1]
-- **LeetCode**: [sagar_d_desai](https://leetcode.com/u/sagar_d_desai)[cite: 1]
-- **Location**: Bengaluru, India 📍[cite: 1]
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SAGARDEVARAJDESAI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGARDEVARAJDESAI&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=SAGARDEVARAJDESAI&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+## 🧮 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sagar_d_desai">
+  <img src="https://leetcard.jacoblin.cool/sagar_d_desai?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something together** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
